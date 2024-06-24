@@ -1,16 +1,17 @@
-## Hi there 👋
+# PK XD Wiki and Guide
 
-<!--
-**WikiPKXD/WikiPKXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the unofficial PK XD wiki and guide account!
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This account is dedicated to providing tips and strategies for PK XD:
+- Building Tips: Techniques for creating impressive structures.
+- Armor Collection Guide: Strategies to acquire and optimize armors.
+- Gameplay Insights: Learn about various features and mechanics.
+
+## Contributions
+
+Contributions are encouraged! You can contribute by:
+- Adding new pages with helpful tips or strategies.
+- Highlighting and correcting any misinformation.
+- Improving existing content with more detailed explanations or examples.
